@@ -1,19 +1,24 @@
 [submodule "gateway"]
 	path = gateway
 	url = git@github.com:Mark005/gateway.git
+	branch = master
 
 [submodule "auth-service"]
 	path = auth-service
 	url = git@github.com:Mark005/auth-service.git
+	branch = master
 
 [submodule "market-service"]
 	path = market-service
 	url = git@github.com:Mark005/market-service.git
+	branch = master
 
 [submodule "delivery-service"]
 	path = delivery-service
 	url = git@github.com:Mark005/delivery-service.git
+	branch = master
 
 [submodule "notification-service"]
 	path = notification-service
 	url = git@github.com:Mark005/notification-service.git
+	branch = master
